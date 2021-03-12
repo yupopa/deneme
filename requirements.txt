@@ -1,0 +1,9 @@
+fastai
+Dlib 
+Numpy
+Scipy
+IMutils
+OpenCV
+Pandas
+Argparse
+Python
