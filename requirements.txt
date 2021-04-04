@@ -1,6 +1,5 @@
-numpy
-streamlit
-torch==1.7.1
-torchvision==0.8.2
-fastai==2.2.7
-jupyter
+voila
+fastai>=2
+pillow<7
+packaging
+ipywidgets==7.5.1
